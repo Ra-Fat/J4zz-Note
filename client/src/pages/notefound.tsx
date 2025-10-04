@@ -1,5 +1,5 @@
 
-const notefound = () => {
+const Notefound = () => {
   return (
     <div>
       
@@ -7,4 +7,4 @@ const notefound = () => {
   )
 }
 
-export default notefound
+export default Notefound
